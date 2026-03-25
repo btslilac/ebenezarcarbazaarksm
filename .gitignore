@@ -12,3 +12,5 @@ yarn-error.log*
 *.log
 *.tsbuildinfo
 .cache/
+.vercel
+.env*.local
